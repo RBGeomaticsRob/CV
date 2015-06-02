@@ -1,12 +1,14 @@
 ## Rob Bowers
 
-Spending the last 5 years developing a geo-lab with the main theme of 'a place I would want to work'. It was time for the business to return me something, a chance to attend the Makers Academy 'Ronin' Web Development Bootcamp, an oppertunity to finally do something serious and confidence building with my long-time fascination of 'tinkering' with code. An intense 16 weeks has provided me with the skill-set of a junior software craftsman and the confidence and ability to know how and where to grow these skills from this point on. Now keen to get back to applying new found skills to deliver our clients fit-for-purpose solutions to their positioning and data visualisation problems. My challenge for this year, to increase our use of IoT sensor technology and platforms across all our working sectors, more to learn, more to experiment with, excited!
+Spending the last 5 years developing a geo-lab with the main theme of 'a place I would want to work'. It was time for the business to return me something, a chance to attend the Makers Academy 'Ronin' Web Development Bootcamp, an oppertunity to finally do something serious and confidence building with my long-time fascination of 'tinkering' with code. An intense 16 weeks has provided me with the skill-set of a junior software craftsman and the confidence and ability to know how and where to grow these skills from this point on.
+
+Now keen to get back to applying new found skills to deliver our clients fit-for-purpose solutions to their positioning and data visualisation problems. My challenge for this year, to increase our use of IoT sensor technology and platforms across all our working sectors, more to learn, more to experiment with, excited!
 
 ## Skills
 
 #### Agile Leadership
 
-I have discovered that agile methodologies provide a fantastic framework to translate vision into an actionable path. While we have been using agile methologies, with tight reflection loops at RB Geomatics since we started, our clients often don't or are unwilling to embrace. Makers Academy has provided a 'safe environment' that has allowed me to try out the benefit of leading daily stand-ups and retrospectives, scrums and kanban. The giftbox project provided me with a platform to embrace my leadership skill set in an agile environment, within a team environment more diverse than in my work environment. Keeping this project user focussed and moving forward everday only powered by a group of junior developers, see the results of the project at Giftbox and a [blog](http://rbgeomaticsrob.github.io/) of my experience
+I have discovered that agile methodologies provide a fantastic framework to translate vision into an actionable path. While we have been using agile methologies, with tight reflection loops at RB Geomatics since we started, our clients often don't or are unwilling to embrace. Makers Academy has provided a 'safe environment' that has allowed me to try out the benefit of leading daily stand-ups and retrospectives, scrums and kanban. The giftbox project provided me with a platform to embrace my leadership skill set in an agile environment, within a team environment more diverse than in my work environment. Keeping this project user focussed and moving forward everday only powered by a group of junior developers, see the results of the project at [Giftbox](https://github.com/RBGeomaticsRob/present_cobuy) and a [blog](http://rbgeomaticsrob.github.io/) of my experience
 
 #### BDD
 
@@ -18,7 +20,7 @@ Aligned with agile methodologies, I have been immersed in BDD development cycles
 
 - A highly intensive experienced with a large focus of learning in a pair programming environment
 - Everyday increased my interest and desire to try out new techniques and technologies.
-- Focus on becoming an independent learning and problem solver, see all the brick walls I had to get around!.
+- Focus on becoming an independent learning and problem solver, see all the [brick walls](https://github.com/RBGeomaticsRob/Brick_Walls) I had to get around!.
 - Started my journey as a software craftsman, inspired to write elegant OOP in a TDD fashion.
 - Main focus on Ruby (Rails) and Javascript (Node.js, Angular.js, React.js)
 - Becoming evermore confident at applying WWSMD!
