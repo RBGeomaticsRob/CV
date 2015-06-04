@@ -12,7 +12,7 @@ I have discovered that agile methodologies provide a fantastic framework to tran
 
 #### BDD
 
-Aligned with agile methodologies, I have been immersed in BDD development cycles and become addicted to the ability it provides you to deliver products fully focussed on user requirements. Throught my projects you will see the development of requirements into user stories, which are then focussed to MVPs. Specific examples can be found using Cucumber, Rspec and Capybara for Ruby based projects and Protractor and Jasmine for Angular and Javascript products.
+Aligned with agile methodologies, I have been immersed in BDD development cycles and become addicted to the ability it provides you to deliver products fully focussed on user requirements. Throught my projects you will see the development of requirements into user stories, which are then focussed to MVPs. Specific examples can be found using [Cucumber](https://github.com/RBGeomaticsRob/rate-my-pothole/tree/master/features), [Rspec and Capybara](https://github.com/RBGeomaticsRob/present_cobuy/tree/master/spec) for Ruby based projects and [Protractor](https://github.com/RBGeomaticsRob/todo_challenge/tree/master/test) and [Jasmine](https://github.com/RBGeomaticsRob/thermostat/tree/master/spec) for Angular and Javascript products.
 
 ## Education
 
